@@ -10,6 +10,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  moor:
+  sqlite3_flutter_libs:
+  path_provider:
+  path:
+
+dev_dependencies:
+  moor_generator:
+  build_runner:
 
 flutter:
   uses-material-design: true
